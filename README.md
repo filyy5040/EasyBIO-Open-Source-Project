@@ -1,6 +1,6 @@
 # EasyBIO 🌟
 
-**You can try a live demo here: filyy5040.github.io**
+**You can try a live demo here: https://easybiodemo.gleeze.com/**
 
 **English Version:**
 
@@ -25,6 +25,8 @@ EasyBIO is an open-source, self-hostable alternative to services like guns.lol o
 ---
 
 # EasyBIO 🌟
+
+**Puoi provare una demo qui https://easybiodemo.gleeze.com/**
 
 **Versione Italiana:**
 
