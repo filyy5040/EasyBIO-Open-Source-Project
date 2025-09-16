@@ -20,11 +20,7 @@ By participating in this project, you agree to respect the rules of collaboratio
 - Check existing issues before opening a new one.  
 - Include steps to reproduce, screenshots, or logs when possible.
 
-### 2. Suggesting new features
-- Open an issue labeled `feature request`.  
-- Explain why the feature is useful and how it aligns with EasyBIO’s goals.  
-
-### 3. Fork and branch
+### 2. Fork and branch
 - Fork the repository to your account.  
 - Create a branch for each change:  
   ```bash
