@@ -1,0 +1,31 @@
+# Contributing to EasyBIO
+
+Thanks for your interest in contributing to **EasyBIO** 🎉  
+This document explains how to contribute code, documentation, or other improvements to the project.
+
+---
+
+## 📌 Code of Conduct
+By participating in this project, you agree to respect the rules of collaboration:
+- Be respectful and constructive.  
+- No harassment, personal attacks, or spam.  
+- Discussions must remain relevant to the project.  
+
+---
+
+## ⚙️ How to Contribute
+
+### 1. Reporting issues
+- Use [GitHub Issues](../../issues) to report bugs, request features, or ask questions.  
+- Check existing issues before opening a new one.  
+- Include steps to reproduce, screenshots, or logs when possible.
+
+### 2. Suggesting new features
+- Open an issue labeled `feature request`.  
+- Explain why the feature is useful and how it aligns with EasyBIO’s goals.  
+
+### 3. Fork and branch
+- Fork the repository to your account.  
+- Create a branch for each change:  
+  ```bash
+  git checkout -b feature/my-new-feature
