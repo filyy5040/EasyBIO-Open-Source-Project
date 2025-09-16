@@ -6,7 +6,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/filyy5040/EasyBIO-Open-Source-Project)](https://github.com/filyy5040/EasyBIO-Open-Source-Project/releases)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/filyy5040/EasyBIO-Open-Source-Project/total)](https://github.com/filyy5040/EasyBIO-Open-Source-Project/releases)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/filyy5040/EasyBIO-Open-Source-Project/latest)
-[![GitHub License](https://img.shields.io/github/license/VegaCSS/EasyBIO-Open-Source-Project)](https://github.com/filyy5040/EasyBIO-Open-Source-Project/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/filyy5040/EasyBIO-Open-Source-Project)](https://github.com/filyy5040/EasyBIO-Open-Source-Project/blob/main/LICENSE)
 ---
 
 **You can try a live demo here: https://easybiodemo.gleeze.com/**
