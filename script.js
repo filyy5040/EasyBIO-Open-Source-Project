@@ -1,3 +1,11 @@
+// Here you can customize your profile information
+// You can customize the background video and music in the HTML file
+// And here you can customize the text that appears on the start screen and in the bio section
+// You can also customize the colors in the CSS file
+// Here you can customize the varius background for each theme
+// Make sure to replace the placeholder text and media sources with your own
+
+
 let hasUserInteracted = false;
 
 function initMedia() {
@@ -95,7 +103,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "⚠️ Clicca per vedere il mio profilo ⚠️";
+  const startMessage = "⚠️ Customize this text on script.js on line 107 ⚠️";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
@@ -236,8 +244,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Quello che vuoi tu",
-    "\"Questo è un template usalo ! :]\""
+    "Put your bio here (edit on script.js)",
+    "\"This is a second bio line (edit on script.js)\""
 
   ];
   let bioText = '';
@@ -360,22 +368,22 @@ document.addEventListener('DOMContentLoaded', () => {
     let primaryColor;
     switch (themeClass) {
       case 'home-theme':
-        primaryColor = '#00CED1';
+        primaryColor = '#d1003fff';
         break;
       case 'hacker-theme':
-        primaryColor = '#22C55E';
+        primaryColor = '#2232c5ff';
         break;
       case 'rain-theme':
-        primaryColor = '#1E3A8A';
+        primaryColor = '#8a1e61ff';
         break;
       case 'anime-theme':
-        primaryColor = '#DC2626';
+        primaryColor = '#dcc126ff';
         break;
       case 'car-theme':
-        primaryColor = '#EAB308';
+        primaryColor = '#08ea8cff';
         break;
       default:
-        primaryColor = '#00CED1';
+        primaryColor = '#7d00d1ff';
     }
     document.documentElement.style.setProperty('--primary-color', primaryColor);
 
@@ -432,43 +440,43 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   homeButton.addEventListener('click', () => {
-    switchTheme('assets/background.mp4', backgroundMusic, 'home-theme');
+    switchTheme('assets/background.png', backgroundMusic, 'home-theme'); //edit to assets/background.webp/png or whatever you want (if you have a png background change it to png)
   });
   homeButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('assets/background.mp4', backgroundMusic, 'home-theme');
+    switchTheme('assets/background.png', backgroundMusic, 'home-theme'); //edit to assets/background.webp/png or whatever you want (if you have a png background change it to png)
   });
 
   hackerButton.addEventListener('click', () => {
-    switchTheme('assets/background.mp4', hackerMusic, 'hacker-theme', hackerOverlay, false);
+    switchTheme('assets/background.png', hackerMusic, 'hacker-theme', hackerOverlay, false); //same thing here
   });
   hackerButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('assets/background.mp4', hackerMusic, 'hacker-theme', hackerOverlay, false);
+    switchTheme('assets/background.png', hackerMusic, 'hacker-theme', hackerOverlay, false); //and here
   });
 
   rainButton.addEventListener('click', () => {
-    switchTheme('assets/background.mp4', rainMusic, 'rain-theme', snowOverlay, true);
+    switchTheme('assets/background.png', rainMusic, 'rain-theme', snowOverlay, true); //here too!
   });
   rainButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('assets/background.mp4', rainMusic, 'rain-theme', snowOverlay, true);
+    switchTheme('assets/background.png', rainMusic, 'rain-theme', snowOverlay, true); //guess what? here too!
   });
 
   animeButton.addEventListener('click', () => {
-    switchTheme('assets/background.mp4', animeMusic, 'anime-theme');
+    switchTheme('assets/background.png', animeMusic, 'anime-theme'); //oh! here too
   });
   animeButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('assets/background.mp4', animeMusic, 'anime-theme');
+    switchTheme('assets/background.png', animeMusic, 'anime-theme'); //do not forget to change it here!
   });
 
   carButton.addEventListener('click', () => {
-    switchTheme('assets/background.mp4', carMusic, 'car-theme');
+    switchTheme('assets/background.png', carMusic, 'car-theme'); //here!
   });
   carButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('assets/background.mp4', carMusic, 'car-theme');
+    switchTheme('assets/background.png', carMusic, 'car-theme'); // and here :]
   });
 
  
@@ -669,4 +677,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
-});
+}); 
