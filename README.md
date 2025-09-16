@@ -1,5 +1,7 @@
 # EasyBIO 🌟
 
+**You can try a live demo here: filyy5040.github.io**
+
 **English Version:**
 
 EasyBIO is an open-source, self-hostable alternative to services like guns.lol or fakecrime.bio. It provides a fully customizable platform for creating unique and engaging link-in-bio pages. 🚀
