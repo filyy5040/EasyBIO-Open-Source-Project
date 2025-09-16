@@ -1,5 +1,3 @@
-# EasyBIO-Open-Source-Project
-
 # EasyBIO 🌟
 
 **English Version:**
