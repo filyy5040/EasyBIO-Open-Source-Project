@@ -7,7 +7,7 @@
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/filyy5040/EasyBIO-Open-Source-Project/latest)
 ---
 
-**You can try a live demo here: https://demo.easybio.gleeze.com/**
+**You can try a live demo here: https://demo.easybio.giize.com/**
 
 **English Version:**
 
@@ -33,7 +33,7 @@ EasyBIO is an open-source, self-hostable alternative to services like guns.lol o
 
 # EasyBIO 🌟
 
-**Puoi provare una demo qui https://demo.easybio.gleeze.com/**
+**Puoi provare una demo qui https://demo.easybio.giize.com/**
 
 **Versione Italiana:**
 
