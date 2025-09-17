@@ -1,109 +1,106 @@
-# EASYBIO LICENSE — v1.0 / LICENZA EASYBIO — v1.0
+EASYBIO LICENSE — v1.0 / LICENZA EASYBIO — v1.0
 
----
+English text
 
-## English text
+1. Overview
+This License governs use, modification and distribution of the software known as EasyBIO (the "Software"). By using, modifying, contributing to, or distributing the Software you agree to be bound by the terms below.
 
-### 1. Overview
-This License governs use, modification and distribution of the software known as **EasyBIO** (the "Software"). By using, modifying, contributing to, or distributing the Software you agree to be bound by the terms below.
-
-### 2. Permission Grant (limited)
+2. Permission Grant (limited)
 Subject to the restrictions and requirements of this License, the copyright holder hereby grants you a limited, non-exclusive, revocable right to:
 
-- **Use** the Software for personal, development, or internal purposes;  
-- **Modify** the Software and create forks for development and private use;  
-- **Distribute** modified versions **only** if all requirements in Section 3 (Conditions) are met.
+- Use the Software for personal, development, or internal purposes;
+- Modify the Software and create forks for development and private use;
+- Distribute modified versions only if all requirements in Section 3 (Conditions) are met.
 
-**Prohibited:** commercial use of the Software (including selling the Software or offering the Software as a hosted service), sublicensing, or any redistribution that does not fully comply with this License.
+Prohibited commercial use of the Software (including selling the Software or offering the Software as a hosted service), sublicensing, or any redistribution that does not fully comply with this License.
 
-### 3. Conditions (must be met for any redistribution)
-Any redistribution (source or binary) or public sharing of a derived work must satisfy **all** of the following:
+3. Conditions (must be met for any redistribution)
+Any redistribution (source or binary) or public sharing of a derived work must satisfy all of the following:
 
-a. The redistributed work is licensed **entirely** under this EasyBIO License v1.0 (no relicensing under a different license).  
-b. The redistributed work **may not** be offered as a hosted service (SaaS) to third parties. Running the Software on behalf of others as a public/paid service is prohibited.  
-c. The redistributed work **must** include an unmodified copy of this License and retain prominent attribution to the original copyright holder (e.g. a visible line in README or footer: “Powered by EasyBIO — 2025 Nuvexads / Drester”).  
-d. The redistributed work **must not** remove, alter, or obscure any notices of attribution, copyright, or this License.  
-e. The redistributed work **must not** rebrand the project as a different product using the code; in particular, the name **“EasyBIO”** and associated logos, icons or trade dress **must not** be used to present the redistributed/forked project as the same official project unless explicit written permission is given by the copyright holder.  
-f. Redistribution is permitted only for **non-commercial** purposes.
+a. The redistributed work is licensed entirely under this EasyBIO License v1.0 (no relicensing under a different license).
+b. The redistributed work may not be offered as a hosted service (SaaS) to third parties. Running the Software on behalf of others as a public/paid service is prohibited.
+c. The redistributed work must include an unmodified copy of this License and retain prominent attribution to the original copyright holder (e.g. a visible line in README or footer: “Powered by EasyBIO — 2025 Nuvexads / Drester”).
+d. The redistributed work must not remove, alter, or obscure any notices of attribution, copyright, or this License.
+e. The redistributed work must not rebrand the project as a different product using the code; in particular, the name “EasyBIO” and associated logos, icons or trade dress must not be used to present the redistributed/forked project as the same official project unless explicit written permission is given by the copyright holder.
+f. Redistribution is permitted only for non-commercial purposes.
 
-### 4. Copyleft requirement
-If you distribute a modified version of the Software, you must make available the **complete corresponding source code** of your modified work under this same EasyBIO License v1.0. This is a copyleft requirement: derivatives must remain under the same license terms.
+4. Copyleft requirement
+If you distribute a modified version of the Software, you must make available the complete corresponding source code of your modified work under this same EasyBIO License v1.0. This is a copyleft requirement: derivatives must remain under the same license terms.
 
-### 5. Trademark / Brand
+5. Trademark / Brand
 The names "EasyBIO" and any associated logos, icons or branding are reserved. You may not use the name "EasyBIO" or any confusingly similar names, logos, or branding in connection with redistributed or offered products or services without explicit written permission from the copyright holder. This restriction applies regardless of whether the marks are registered.
 
-### 6. Commercial support / services
-Selling **support, consulting, setup, customization, training or other professional services** that relate to EasyBIO is permitted, provided that such services **do not** include offering EasyBIO as a hosted SaaS/service to third parties and **do not** use the EasyBIO name/logo without permission. In other words: you may sell labor/consulting but you may not sell access to a hosted EasyBIO instance as a service.
+6. Commercial support / services
+Selling support, consulting, setup, customization, training or other professional services that relate to EasyBIO is permitted, provided that such services do not include offering EasyBIO as a hosted SaaS/service to third parties and do not use the EasyBIO name/logo without permission. In other words: you may sell labor/consulting but you may not sell access to a hosted EasyBIO instance as a service.
 
-### 7. Contributions
+7. Contributions
 By submitting any contribution (code, documentation, translations, patches, etc.), you represent and warrant that you have the right to grant the contribution under this License, and you agree to the following Developer Certificate of Origin (DCO) style statement:
 
-> “I certify that the contribution I am making is my original work (or I have the right to submit it under the terms of this License), and that I license it to the project under the EasyBIO License v1.0.”
+“I certify that the contribution I am making is my original work (or I have the right to submit it under the terms of this License), and that I license it to the project under the EasyBIO License v1.0.”
 
 Contributions are thereby licensed under EasyBIO License v1.0 and must comply with the copyleft and attribution terms above.
 
-### 8. No warranty
-THE SOFTWARE IS PROVIDED **AS IS**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+8. No warranty
+THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
 
-### 9. Termination and remedies
+9. Termination and remedies
 Any breach of this License (including offering the Software as SaaS, commercial resale, removing attribution, sublicensing, or rebranding without permission) will automatically terminate the license granted to the violator. Upon termination, the recipient must cease distribution and public use of the violating copies. The copyright holder may seek any remedies available under applicable law.
 
-### 10. Patent
+10. Patent
 No patent license is granted by this License. No patent-related promises are made by the copyright holder.
 
-### 11. Compatibility with other licenses
-This License permits the use of third-party libraries under permissive terms (e.g., MIT, BSD, Apache) in the project so long as the terms of those third-party licenses are respected and their notices retained. However, because of the copyleft + non-commercial + anti-SaaS restrictions in this License, it is **not fully compatible** with many standard open-source licenses for the purpose of unrestricted redistribution. If you plan to combine or redistribute under other licensing schemes, consult legal counsel.
+11. Compatibility with other licenses
+This License permits the use of third-party libraries under permissive terms (e.g., MIT, BSD, Apache) in the project so long as the terms of those third-party licenses are respected and their notices retained. However, because of the copyleft + non-commercial + anti-SaaS restrictions in this License, it is not fully compatible with many standard open-source licenses for the purpose of unrestricted redistribution. If you plan to combine or redistribute under other licensing schemes, consult legal counsel.
 
----
 
-## Testo in Italiano
+Testo in Italiano
 
-### 1. Panoramica
-Questa Licenza regola l'uso, la modifica e la ridistribuzione del software denominato **EasyBIO** (il "Software"). Usando, modificando, contribuendo o ridistribuendo il Software accetti di essere vincolato dai termini seguenti.
+1. Panoramica
+Questa Licenza regola l'uso, la modifica e la ridistribuzione del software denominato EasyBIO (il "Software"). Usando, modificando, contribuendo o ridistribuendo il Software accetti di essere vincolato dai termini seguenti.
 
-### 2. Concessione di permessi (limitata)
+2. Concessione di permessi (limitata)
 Soggetto alle limitazioni e ai requisiti di questa Licenza, il titolare del copyright concede un diritto limitato, non esclusivo e revocabile a:
 
-- **Usare** il Software per scopi personali, di sviluppo o interni;  
-- **Modificare** il Software e creare fork a scopo di sviluppo e uso privato;  
-- **Ridistrbuire** versioni modificate **solo** se rispettano i requisiti indicati nella Sezione 3 (Condizioni).
+- Usare il Software per scopi personali, di sviluppo o interni;
+- Modificare il Software e creare fork a scopo di sviluppo e uso privato;
+- Ridistribuire versioni modificate solo se rispettano i requisiti indicati nella Sezione 3 (Condizioni).
 
-**Vietato:** l'uso commerciale del Software (inclusa la vendita del Software o l'offerta del Software come servizio ospitato), la sublicenza o qualunque ridistribuzione che non sia pienamente conforme a questa Licenza.
+Vietato: l'uso commerciale del Software (inclusa la vendita del Software o l'offerta del Software come servizio ospitato), la sublicenza o qualunque ridistribuzione che non sia pienamente conforme a questa Licenza.
 
-### 3. Condizioni (da rispettare per qualsiasi ridistribuzione)
-Qualsiasi ridistribuzione (sorgente o binaria) o condivisione pubblica di un'opera derivata deve soddisfare **tutte** le seguenti condizioni:
+3. Condizioni (da rispettare per qualsiasi ridistribuzione)
+Qualsiasi ridistribuzione (sorgente o binaria) o condivisione pubblica di un'opera derivata deve soddisfare tutte le seguenti condizioni:
 
-a. L'opera ridistribuita è interamente rilasciata sotto questa EasyBIO License v1.0 (non è permesso relicenziare sotto licenze diverse).  
-b. L'opera ridistribuita **non può** essere offerta come servizio ospitato (SaaS) a terzi. L'esecuzione del Software per conto di altri come servizio pubblico o a pagamento è proibita.  
-c. L'opera ridistribuita **deve** includere una copia non modificata di questa Licenza e mantenere un'attribuzione evidente al titolare del copyright originale (es. una riga in README o nel footer: “Powered by EasyBIO — 2025 Nuvexads / Drester”).  
-d. L'opera ridistribuita **non deve** rimuovere, alterare o nascondere avvisi di attribuzione, copyright o questa Licenza.  
-e. L'opera ridistribuita **non deve** effettuare rebranding del progetto; in particolare, il nome **“EasyBIO”** e i relativi loghi, icone o elementi di brand **non possono** essere usati per presentare il progetto ridistribuito come ufficiale senza esplicita autorizzazione scritta del titolare del copyright.  
-f. La ridistribuzione è consentita solo per scopi **non commerciali**.
+a. L'opera ridistribuita è interamente rilasciata sotto questa EasyBIO License v1.0 (non è permesso relicenziare sotto licenze diverse).
+b. L'opera ridistribuita non può essere offerta come servizio ospitato (SaaS) a terzi. L'esecuzione del Software per conto di altri come servizio pubblico o a pagamento è proibita.
+c. L'opera ridistribuita deve includere una copia non modificata di questa Licenza e mantenere un'attribuzione evidente al titolare del copyright originale (es. una riga in README o nel footer: “Powered by EasyBIO — 2025 Nuvexads / Drester”).
+d. L'opera ridistribuita non deve rimuovere, alterare o nascondere avvisi di attribuzione, copyright o questa Licenza.
+e. L'opera ridistribuita non deve effettuare rebranding del progetto; in particolare, il nome “EasyBIO” e i relativi loghi, icone o elementi di brand non possono essere usati per presentare il progetto ridistribuito come ufficiale senza esplicita autorizzazione scritta del titolare del copyright.
+f. La ridistribuzione è consentita solo per scopi non commerciali.
 
-### 4. Obbligo di copyleft
-Se distribuisci una versione modificata del Software, devi rendere disponibile il **codice sorgente completo corrispondente** della tua opera modificata sotto questa stessa EasyBIO License v1.0. Questo è un obbligo di copyleft: i derivati devono rimanere sotto gli stessi termini di licenza.
+4. Obbligo di copyleft
+Se distribuisci una versione modificata del Software, devi rendere disponibile il codice sorgente completo corrispondente della tua opera modificata sotto questa stessa EasyBIO License v1.0. Questo è un obbligo di copyleft: i derivati devono rimanere sotto gli stessi termini di licenza.
 
-### 5. Marchio / Brand
+5. Marchio / Brand
 I nomi "EasyBIO" e qualsiasi logo, icona o elemento di brand associato sono riservati. Non puoi usare il nome "EasyBIO" o nomi, loghi o elementi similari in connessione con prodotti o servizi ridistribuiti senza l'esplicita autorizzazione scritta del titolare del copyright. Questa restrizione vale anche se i marchi non sono registrati.
 
-### 6. Supporto commerciale / servizi
-La vendita di **servizi di supporto, consulenza, installazione, personalizzazione, formazione o altri servizi professionali** relativi a EasyBIO è permessa, a condizione che tali servizi **non** comprendano l'offerta di EasyBIO come servizio ospitato (SaaS) e **non** utilizzino il nome/logo EasyBIO senza permesso. In altre parole: puoi vendere lavoro/consulenza, ma non vendere accesso a un'istanza EasyBIO ospitata come servizio.
+6. Supporto commerciale / servizi
+La vendita di servizi di supporto, consulenza, installazione, personalizzazione, formazione o altri servizi professionali relativi a EasyBIO è permessa, a condizione che tali servizi non comprendano l'offerta di EasyBIO come servizio ospitato (SaaS) e non utilizzino il nome/logo EasyBIO senza permesso. In altre parole: puoi vendere lavoro/consulenza, ma non vendere accesso a un'istanza EasyBIO ospitata come servizio.
 
-### 7. Contributi
+7. Contributi
 Sottoponendo qualsiasi contributo (codice, documentazione, traduzioni, patch, ecc.), dichiari e garantisci di avere il diritto di rilasciare tale contributo sotto questa Licenza, e accetti la seguente dichiarazione in stile Developer Certificate of Origin (DCO):
 
-> “Dichiaro che il contributo che sto fornendo è opera originale (o ho il diritto di inviarlo ai termini di questa Licenza), e lo licenzio al progetto sotto la EasyBIO License v1.0.”
+“Dichiaro che il contributo che sto fornendo è opera originale (o ho il diritto di inviarlo ai termini di questa Licenza), e lo licenzio al progetto sotto la EasyBIO License v1.0.”
 
 I contributi sono quindi rilasciati sotto EasyBIO License v1.0 e devono rispettare i termini di copyleft e attribuzione sopra citati.
 
-### 8. Nessuna garanzia
-IL SOFTWARE VIENE FORNITO **COSÌ COM'È**, SENZA ALCUNA GARANZIA, ESPRESSA O IMPLICITA, INCLUSI MA NON LIMITATI A: GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE, TITOLO O NON CONTRAFFAZIONE. IN NESSUN CASO IL TITOLARE DEL COPYRIGHT SARÀ RESPONSABILE PER QUALUNQUE RICHIESTA, DANNO O ALTRE RESPONSABILITÀ DERIVANTI DALL'USO O DALL'IMPOSSIBILITÀ DI UTILIZZARE IL SOFTWARE.
+8. Nessuna garanzia
+IL SOFTWARE VIENE FORNITO COSÌ COM'È, SENZA ALCUNA GARANZIA, ESPRESSA O IMPLICITA, INCLUSI MA NON LIMITATI A: GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE, TITOLO O NON CONTRAFFAZIONE. IN NESSUN CASO IL TITOLARE DEL COPYRIGHT SARÀ RESPONSABILE PER QUALUNQUE RICHIESTA, DANNO O ALTRE RESPONSABILITÀ DERIVANTI DALL'USO O DALL'IMPOSSIBILITÀ DI UTILIZZARE IL SOFTWARE.
 
-### 9. Risoluzione e rimedi
+9. Risoluzione e rimedi
 Qualunque violazione di questa Licenza (inclusi l'offerta del Software come SaaS, la rivendita commerciale, la rimozione dell'attribuzione, la sublicenza o il rebranding senza permesso) determinerà la cessazione automatica della licenza concessa al trasgressore. In caso di risoluzione, il destinatario deve cessare la distribuzione e l'uso pubblico delle copie violanti. Il titolare del copyright potrà agire per ottenere i rimedi previsti dalla legge.
 
-### 10. Brevetti
+10. Brevetti
 Questa Licenza non concede alcuna licenza di brevetto. Il titolare del copyright non assume impegni relativi a brevetti.
 
-### 11. Compatibilità con altre licenze
-Questa Licenza permette l'uso di librerie di terze parti sotto termini permissivi (es. MIT, BSD, Apache) purché i termini di quelle librerie siano rispettati e i loro avvisi mantenuti. Tuttavia, a causa dei requisiti di copyleft combinati alle restrizioni non-commerciali e anti-SaaS, questa Licenza **non è pienamente compatibile** con molte licenze open-source standard per quanto riguarda la ridistribuzione illimitata. Se hai intenzione di combinare o ridistribuire il Software sotto uno schema di licenza diverso, considera la consulenza legale.
+11. Compatibilità con altre licenze
+Questa Licenza permette l'uso di librerie di terze parti sotto termini permissivi (es. MIT, BSD, Apache) purché i termini di quelle librerie siano rispettati e i loro avvisi mantenuti. Tuttavia, a causa dei requisiti di copyleft combinati alle restrizioni non-commerciali e anti-SaaS, questa Licenza non è pienamente compatibile con molte licenze open-source standard per quanto riguarda la ridistribuzione illimitata. Se hai intenzione di combinare o ridistribuire il Software sotto uno schema di licenza diverso, considera la consulenza legale.
